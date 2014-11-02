@@ -1,5 +1,5 @@
 # BiliPlus-UI
 
-New web UI for BiliPlus. \[Incomplete\] \[Dropped\]
+New web UI for BiliPlus. **\[Incomplete\]** **\[Dropped\]**
 
-MIT License
+License: **MIT License**
